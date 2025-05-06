@@ -42,3 +42,6 @@ Dataset source: Kaggle
 - Excel (data cleaning/preparation)
 
 ---
+## Disclaimer
+This project is for viewing purposes only. Unauthorized copying, modification, or distribution of this work is strictly prohibited.
+
